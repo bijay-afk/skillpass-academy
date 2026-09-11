@@ -1,0 +1,7 @@
+# Ignore local backup copies
+*.bak
+*.old
+
+# OS files
+Thumbs.db
+.DS_Store
